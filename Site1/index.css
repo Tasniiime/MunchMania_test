@@ -1,0 +1,329 @@
+ .u-section-1 {
+  min-height: 992px;
+}
+
+.u-section-1 .u-shape-1 {
+  width: 639px;
+  height: 586px;
+  margin: 8px 0 0 auto;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  width: 1140px;
+  margin: -763px auto -169px;
+}
+
+.u-section-1 .u-layout-cell-1 {
+  min-height: 1009px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 0;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  font-size: 5.625rem;
+  margin: 124px -151px 0 8px;
+}
+
+.u-section-1 .u-text-2 {
+  font-weight: 400;
+  line-height: 1.1;
+  margin: 16px 16px 0;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  background-image: none;
+  margin: 53px auto 0 34px;
+  padding: 13px 55px 13px 54px;
+}
+
+.u-section-1 .u-btn-2 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  background-image: none;
+  margin: -48px 161px 0 auto;
+  padding: 13px 55px 13px 54px;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 1009px;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 0;
+}
+
+.u-section-1 .u-image-1 {
+  height: 538px;
+  width: 538px;
+  background-image: url("images/tortilla-wrap-with-falafel-fresh-salad-vegan-tacos-vegetarian-healthy-food_2829-6193.jpg");
+  background-position: 50% 50%;
+  margin: 190px -18px 0 auto;
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    min-height: 815px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    width: 509px;
+    height: 467px;
+    margin-right: calc(((100% - 940px) / 2)  + -39px);
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    width: 940px;
+    margin-left: calc(((100% - 940px) / 2));
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 832px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 5rem;
+    line-height: 1;
+    width: auto;
+    margin-right: -164px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: -2px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-right: 61px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 832px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 19px;
+    height: 454px;
+    width: 454px;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1 {
+    min-height: 620px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    width: 383px;
+    height: 373px;
+    margin-right: calc(((100% - 720px) / 2));
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    width: 720px;
+    margin-left: calc(((100% - 720px) / 2));
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 4.5rem;
+    margin-right: -121px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 637px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 318px;
+    width: 318px;
+    margin-top: 73px;
+    margin-right: 7px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1 {
+    min-height: 1039px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    width: 593px;
+    height: 543px;
+    margin-right: auto;
+    margin-left: calc(((100% - 540px) / 2)  + -26px);
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    width: 540px;
+    margin-left: calc(((100% - 540px) / 2));
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 6rem;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 16px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 956px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 511px;
+    width: 511px;
+    margin-top: 33px;
+    margin-right: 29px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    min-height: 685px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    width: 386px;
+    height: 365px;
+    margin-left: calc(((100% - 340px) / 2)  + -23px);
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    width: 340px;
+    margin-left: calc(((100% - 340px) / 2));
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3.75rem;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 602px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 330px;
+    width: 330px;
+    margin-right: 7px;
+  }
+} .u-section-2 {
+  background-image: none;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 212px;
+}
+
+.u-section-2 .u-layout-wrap-1 {
+  width: 355px;
+  margin: 1px auto 0 60px;
+}
+
+.u-section-2 .u-layout-cell-1 {
+  min-height: 150px;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 2px 20px;
+}
+
+.u-section-2 .u-social-icons-1 {
+  height: 42px;
+  min-height: 16px;
+  width: 283px;
+  min-width: 160px;
+  margin: 59px auto 0;
+}
+
+.u-section-2 .u-icon-2 {
+  height: 48px;
+}
+
+.u-section-2 .u-icon-4 {
+  height: 100%;
+}
+
+.u-section-2 .u-icon-5 {
+  height: 100%;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 20px -50px 20px 935px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-social-icons-1 {
+    width: 289px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-left: 835px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-text-1 {
+    margin-left: 725px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 316px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-left: 635px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 303px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    width: 340px;
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 144px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-left: 535px;
+  }
+}
