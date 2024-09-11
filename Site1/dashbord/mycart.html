@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel='stylesheet' href='https://cdn-uicons.flaticon.com/2.6.0/uicons-regular-rounded/css/uicons-regular-rounded.css'>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Cart</title>
+    <link rel="stylesheet" href="mycart.css">
+</head>
+<body>
+    <nav>
+        <h1>User</h1>
+        <ul>
+          <li><a href="dashboard.html"> DASHBOARD</a></li>
+          <li> <i class="fi fi-rr-user"></i><a href="profile.html">PROFILE</a></li>
+          <li><i class="fi fi-rr-calendar-lines"></i><a href="reservation.html">RESERVATION</a></li>
+          <li> <i class="fi fi-rr-budget-alt"></i><a href="payment_history.html">PAYMENT HISTORY</a></li>
+          <li><i class="fi fi-rr-shopping-cart"></i><a href="mycart.html">MY CART</a></li>
+        </ul>
+        <i class="fi fi-rr-address-card"></i></i><a href="home">BACK TO HOME</a>
+      </nav>
+      <main>
+        <div class="container">
+        
+        <!-- Main Content -->
+        <div class="main-content">
+            <div class="header">
+                <h1>My Cart</h1>
+                <div class="order-summary">
+                    <span>Total orders: 3</span>
+                    <span>Total price: 144 MAD</span>
+                    <button class="pay-btn">PAY</button>
+                </div>
+            </div>
+            
+            <!-- Cart Items -->
+            <div class="cart-table">
+                <div class="table-header">
+                    <span>ITEM IMAGE</span>
+                    <span>ITEM NAME</span>
+                    <span>PRICE</span>
+                    <span>ACTION</span>
+                </div>
+                <div class="cart-item">
+                    <span>1</span>
+                    <span>Chicken Burger</span>
+                    <span>79 MAD</span>
+                    <button class="delete-btn">🗑️</button>
+                </div>
+                <div class="cart-item">
+                    <span>1</span>
+                    <span>Fish Salade</span>
+                    <span>35 MAD</span>
+                    <button class="delete-btn">🗑️</button>
+                </div>
+                <div class="cart-item">
+                    <span>1</span>
+                    <span>Pina Colada</span>
+                    <span>30 MAD</span>
+                    <button class="delete-btn">🗑️</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>
+
+</body>
+<script src="dashboard.js"></script>
+</html>
